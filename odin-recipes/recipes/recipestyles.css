@@ -1,0 +1,17 @@
+*{
+    border: 2px solid blue;
+}
+img {
+    height: auto;
+    width: 500px;
+}
+
+.centered {
+    text-align: center;
+}
+h2 {
+    color: red;
+}
+h1 {
+    text-align: center;
+}
